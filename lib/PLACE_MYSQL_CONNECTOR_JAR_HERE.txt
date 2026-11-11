@@ -1,0 +1,1 @@
+Download MySQL Connector/J and place the .jar file in this folder. Do not rename the JAR unless needed.
